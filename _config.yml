@@ -1,0 +1,14 @@
+layout_spectrum: 0.8478561798110604
+typography_spectrum: 0.9092267071828246
+color:
+  brandStrength: 0.5683649212587625
+  lightness: 0.7696765719447285
+  saturation: 0.2808421100489795
+  rhythmicContrast: 0.7211206897627562
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: dumpsterfire
