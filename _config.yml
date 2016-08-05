@@ -1,4 +1,3 @@
-layout_spectrum: 0.8478561798110604
 typography_spectrum: 0.9092267071828246
 color:
   brandStrength: 0.5683649212587625
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.8478561798110604
 name: dumpsterfire
 title: This Website
+description: A dumpster fire
